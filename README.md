@@ -2,7 +2,7 @@
 
 Проверка концепции: как получить рабочий автотест [Vanessa Automation](https://github.com/Pr-Mex/vanessa-automation) с помощью AI-агента (Claude Code) на живой 1С:ERP. Одна задача, одна модель, три подхода.
 
-🎬 Ролик: [ССЫЛКА НА РОЛИК]
+🎬 Ролик: [AI-автотесты Vanessa Automation на 1С:ERP: skill, агент VA через MCP или запись + доводка](https://youtu.be/117BaTwUhmI?si=i5buG9IyYrBo7XGH)
 
 ## Итог
 
